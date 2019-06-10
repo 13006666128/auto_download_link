@@ -6,3 +6,7 @@
 第一个功能：自动抓取网页中的下载地址或者种子连接； 
 第二个功能：仍开发中。
 
+![执行效果](https://github.com/13006666128/auto_download_link/blob/master/readme.png)
+
+
+
